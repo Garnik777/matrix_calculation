@@ -1,0 +1,2 @@
+Number of wrong matrix = 7551
+Quantity of wrong matrices = 1 : 27
